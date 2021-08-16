@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Location" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAYAAAAAAAYAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAkAACEAAAAAAAAAAMAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAutomobile" Collapsed="true">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAQAgBAIAAAAAAAABAAAAAAAAAAEAAAAIAAAAAAAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automobile" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIQAgBAYAAAAAAEABAAAAAAAAEAEAAAAAAIQEAAAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadAutomobile" Collapsed="true">
+    <Position X="2" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoodAutomobile" Collapsed="true">
+    <Position X="3.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAABAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FireAutomobile" Collapsed="true">
+    <Position X="5.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAFAIAAAAAAAAAAAAAAAAAEAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyAutomobile" Collapsed="true">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAMAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fuel" Collapsed="true">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAgAAIAECAAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadFuel" Collapsed="true">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoodFuel" Collapsed="true">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAIAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FireFuel" Collapsed="true">
+    <Position X="10.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Automobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
